@@ -6,5 +6,3 @@
 Um app que simula o jogo Cara ou Coroa.
 
 >Para baixar o apk procure a opção de download no meu [site](https://sammuelgr.github.io/home#apps).
-
->Mais detalhes do app [aqui](https://sammuelgr.github.io/apps#app6).
