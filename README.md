@@ -5,4 +5,4 @@
 
 Um app que simula o jogo Cara ou Coroa.
 
->Para baixar o apk procure a opção de download no meu [site](https://sammuelgr.github.io/home#apps).
+>O apk está disponível para download na página de [release](https://github.com/SammuelGR/react-native-app6/releases).
